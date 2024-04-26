@@ -3,4 +3,4 @@ import dotenv
 
 dotenv.load_dotenv()
 
-# GOOGLE_AI_API_KEY = os.getenv('GOOGLE_AI_API_KEY')
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')

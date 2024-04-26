@@ -1,4 +1,5 @@
-# -e .
+-e .
 python-dotenv
 fastapi
 uvicorn
+google.generativeai
