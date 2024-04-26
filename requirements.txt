@@ -1,0 +1,4 @@
+# -e .
+python-dotenv
+fastapi
+uvicorn
