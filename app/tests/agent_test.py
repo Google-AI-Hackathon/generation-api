@@ -1,4 +1,4 @@
-from app.data.agent import alex, sarah
+from app.data.conversations.casual.agents import alex, sarah
 from app.services.agent_service import generate_single_interaction_response
 from app.utils.record import save_interaction
 

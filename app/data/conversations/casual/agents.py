@@ -34,7 +34,6 @@ alex = Agent(
         attitude=Attitude.pessimistic
     )
 )
-save_agent(alex)
 
 sarah = Agent(
     identity=Identity(name="Sarah", age=21),
@@ -63,4 +62,6 @@ sarah = Agent(
         attitude=Attitude.optimistic
     )
 )
-save_agent(sarah)
+
+save_agent(alex, 'casual')
+save_agent(sarah, 'casual')
