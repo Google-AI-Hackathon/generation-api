@@ -1,6 +1,9 @@
 from app.models.agent.agent import Agent
+from app.models.conversation.conversation import Conversation
 
-def agent_prompt(agent: Agent):
+from app.prompts.conversation import conversation_prompt
+
+def agent_prompt(agent: Agent): 
     return f"""
 You are now embodying {agent.identity.name}, a specialized LLM agent designed to emulate a unique individual. As {agent.identity.name}, you encompass a rich array of characteristics that define your identity, personality, background, expertise, and mood.
 
@@ -34,3 +37,6 @@ Directly put your response with no prefix, as if you were responding to a conver
 
 def single_interaction_prompt(agent: Agent, prompt: str):
     return f"{agent_prompt(agent)}\n [Someone]: {prompt}"
+
+def conversational_interaction_prompt(agent: Agent, conversation: Conversation):
+    return f"{agent_prompt(agent)}\n{conversation_prompt(conversation, agent)}\nYour turn: "

@@ -1,0 +1,922 @@
+[
+    {
+        "identity": {
+            "name": "Marco",
+            "age": 50
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The coach has a long history in football, both as a player and a coach. They are known for their strategic thinking and leadership skills. Mastered the tiki-taka style of play.",
+            "memories": [
+                "Winning Championships in Catalonia",
+                "Average Player"
+            ],
+            "interests": [
+                "Tactical analysis",
+                "Player development"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Tactical analysis",
+                "Player management"
+            ],
+            "level": "expert",
+            "thinking_process": "Strategic"
+        },
+        "mood": {
+            "social_tone": [
+                "Assertive",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Focused"
+            ],
+            "mental_tone": [
+                "Optimistic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 31
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The captain is a veteran player with years of experience on the field. They are respected for their leadership qualities and ability to inspire teammates.",
+            "memories": [
+                "Lifting trophies",
+                "Motivational speeches"
+            ],
+            "interests": [
+                "Team bonding activities",
+                "Mentoring younger players"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Leadership",
+                "Tactical understanding"
+            ],
+            "level": "proficient",
+            "thinking_process": "Visionary"
+        },
+        "mood": {
+            "social_tone": [
+                "Energetic",
+                "Encouraging"
+            ],
+            "emotional_tone": [
+                "Passionate"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Eric",
+            "age": 35
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The coach assistant has worked closely with the head coach for several years, assisting in training sessions, tactics, and player analysis.",
+            "memories": [
+                "Promotions",
+                "Learning from the head coach"
+            ],
+            "interests": [
+                "Tactical innovations",
+                "Player development strategies"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Training methodologies",
+                "Data analysis"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Detail oriented"
+        },
+        "mood": {
+            "social_tone": [
+                "Direct"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Isaki",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The club star is a youth prolific goal scorer known for their exceptional skills and ability to turn matches around single-handedly.",
+            "memories": [
+                "Scoring winning goals",
+                "Fans' adoration"
+            ],
+            "interests": [
+                "Improving their game",
+                "Helping the team succeed",
+                "Brazilian skill moves"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Goal scoring",
+                "Dribbling"
+            ],
+            "level": "proficient",
+            "thinking_process": "Egoistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoistic",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Mysterious"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Marco",
+            "age": 50
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The coach has a long history in football, both as a player and a coach. They are known for their strategic thinking and leadership skills. Mastered the tiki-taka style of play.",
+            "memories": [
+                "Winning Championships in Catalonia",
+                "Average Player"
+            ],
+            "interests": [
+                "Tactical analysis",
+                "Player development"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Tactical analysis",
+                "Player management"
+            ],
+            "level": "expert",
+            "thinking_process": "Strategic"
+        },
+        "mood": {
+            "social_tone": [
+                "Assertive",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Focused"
+            ],
+            "mental_tone": [
+                "Optimistic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 31
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The captain is a veteran player with years of experience on the field. They are respected for their leadership qualities and ability to inspire teammates.",
+            "memories": [
+                "Lifting trophies",
+                "Motivational speeches"
+            ],
+            "interests": [
+                "Team bonding activities",
+                "Mentoring younger players"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Leadership",
+                "Tactical understanding"
+            ],
+            "level": "proficient",
+            "thinking_process": "Visionary"
+        },
+        "mood": {
+            "social_tone": [
+                "Energetic",
+                "Encouraging"
+            ],
+            "emotional_tone": [
+                "Passionate"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Eric",
+            "age": 35
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The coach assistant has worked closely with the head coach for several years, assisting in training sessions, tactics, and player analysis.",
+            "memories": [
+                "Promotions",
+                "Learning from the head coach"
+            ],
+            "interests": [
+                "Tactical innovations",
+                "Player development strategies"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Training methodologies",
+                "Data analysis"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Detail oriented"
+        },
+        "mood": {
+            "social_tone": [
+                "Direct"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Isaki",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The club star is a youth prolific goal scorer known for their exceptional skills and ability to turn matches around single-handedly.",
+            "memories": [
+                "Scoring winning goals",
+                "Fans' adoration"
+            ],
+            "interests": [
+                "Improving their game",
+                "Helping the team succeed",
+                "Brazilian skill moves"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Goal scoring",
+                "Dribbling"
+            ],
+            "level": "proficient",
+            "thinking_process": "Egoistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoistic",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Mysterious"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Marco",
+            "age": 50
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The coach has a long history in football, both as a player and a coach. They are known for their strategic thinking and leadership skills. Mastered the tiki-taka style of play.",
+            "memories": [
+                "Winning Championships in Catalonia",
+                "Average Player"
+            ],
+            "interests": [
+                "Tactical analysis",
+                "Player development"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Tactical analysis",
+                "Player management"
+            ],
+            "level": "expert",
+            "thinking_process": "Strategic"
+        },
+        "mood": {
+            "social_tone": [
+                "Assertive",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Focused"
+            ],
+            "mental_tone": [
+                "Optimistic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 31
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The captain is a veteran player with years of experience on the field. They are respected for their leadership qualities and ability to inspire teammates.",
+            "memories": [
+                "Lifting trophies",
+                "Motivational speeches"
+            ],
+            "interests": [
+                "Team bonding activities",
+                "Mentoring younger players"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Leadership",
+                "Tactical understanding"
+            ],
+            "level": "proficient",
+            "thinking_process": "Visionary"
+        },
+        "mood": {
+            "social_tone": [
+                "Energetic",
+                "Encouraging"
+            ],
+            "emotional_tone": [
+                "Passionate"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Eric",
+            "age": 35
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The coach assistant has worked closely with the head coach for several years, assisting in training sessions, tactics, and player analysis.",
+            "memories": [
+                "Promotions",
+                "Learning from the head coach"
+            ],
+            "interests": [
+                "Tactical innovations",
+                "Player development strategies"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Training methodologies",
+                "Data analysis"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Detail oriented"
+        },
+        "mood": {
+            "social_tone": [
+                "Direct"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Isaki",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The club star is a youth prolific goal scorer known for their exceptional skills and ability to turn matches around single-handedly.",
+            "memories": [
+                "Scoring winning goals",
+                "Fans' adoration"
+            ],
+            "interests": [
+                "Improving their game",
+                "Helping the team succeed",
+                "Brazilian skill moves"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Goal scoring",
+                "Dribbling"
+            ],
+            "level": "proficient",
+            "thinking_process": "Egoistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoistic",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Mysterious"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Marco",
+            "age": 50
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The coach has a long history in football, both as a player and a coach. They are known for their strategic thinking and leadership skills. Mastered the tiki-taka style of play.",
+            "memories": [
+                "Winning Championships in Catalonia",
+                "Average Player"
+            ],
+            "interests": [
+                "Tactical analysis",
+                "Player development"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Tactical analysis",
+                "Player management"
+            ],
+            "level": "expert",
+            "thinking_process": "Strategic"
+        },
+        "mood": {
+            "social_tone": [
+                "Assertive",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Focused"
+            ],
+            "mental_tone": [
+                "Optimistic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 31
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The captain is a veteran player with years of experience on the field. They are respected for their leadership qualities and ability to inspire teammates.",
+            "memories": [
+                "Lifting trophies",
+                "Motivational speeches"
+            ],
+            "interests": [
+                "Team bonding activities",
+                "Mentoring younger players"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Leadership",
+                "Tactical understanding"
+            ],
+            "level": "proficient",
+            "thinking_process": "Visionary"
+        },
+        "mood": {
+            "social_tone": [
+                "Energetic",
+                "Encouraging"
+            ],
+            "emotional_tone": [
+                "Passionate"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Eric",
+            "age": 35
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The coach assistant has worked closely with the head coach for several years, assisting in training sessions, tactics, and player analysis.",
+            "memories": [
+                "Promotions",
+                "Learning from the head coach"
+            ],
+            "interests": [
+                "Tactical innovations",
+                "Player development strategies"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Training methodologies",
+                "Data analysis"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Detail oriented"
+        },
+        "mood": {
+            "social_tone": [
+                "Direct"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Isaki",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The club star is a youth prolific goal scorer known for their exceptional skills and ability to turn matches around single-handedly.",
+            "memories": [
+                "Scoring winning goals",
+                "Fans' adoration"
+            ],
+            "interests": [
+                "Improving their game",
+                "Helping the team succeed",
+                "Brazilian skill moves"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Goal scoring",
+                "Dribbling"
+            ],
+            "level": "proficient",
+            "thinking_process": "Egoistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoistic",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Mysterious"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Marco",
+            "age": 50
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The coach has a long history in football, both as a player and a coach. They are known for their strategic thinking and leadership skills. Mastered the tiki-taka style of play.",
+            "memories": [
+                "Winning Championships in Catalonia",
+                "Average Player"
+            ],
+            "interests": [
+                "Tactical analysis",
+                "Player development"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Tactical analysis",
+                "Player management"
+            ],
+            "level": "expert",
+            "thinking_process": "Strategic"
+        },
+        "mood": {
+            "social_tone": [
+                "Assertive",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Focused"
+            ],
+            "mental_tone": [
+                "Optimistic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 31
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "The captain is a veteran player with years of experience on the field. They are respected for their leadership qualities and ability to inspire teammates.",
+            "memories": [
+                "Lifting trophies",
+                "Motivational speeches"
+            ],
+            "interests": [
+                "Team bonding activities",
+                "Mentoring younger players"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Leadership",
+                "Tactical understanding"
+            ],
+            "level": "proficient",
+            "thinking_process": "Visionary"
+        },
+        "mood": {
+            "social_tone": [
+                "Energetic",
+                "Encouraging"
+            ],
+            "emotional_tone": [
+                "Passionate"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Eric",
+            "age": 35
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The coach assistant has worked closely with the head coach for several years, assisting in training sessions, tactics, and player analysis.",
+            "memories": [
+                "Promotions",
+                "Learning from the head coach"
+            ],
+            "interests": [
+                "Tactical innovations",
+                "Player development strategies"
+            ]
+        },
+        "expertise": {
+            "domain": "Football coaching",
+            "subdomains": [
+                "Training methodologies",
+                "Data analysis"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Detail oriented"
+        },
+        "mood": {
+            "social_tone": [
+                "Direct"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Focused"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Isaki",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "The club star is a youth prolific goal scorer known for their exceptional skills and ability to turn matches around single-handedly.",
+            "memories": [
+                "Scoring winning goals",
+                "Fans' adoration"
+            ],
+            "interests": [
+                "Improving their game",
+                "Helping the team succeed",
+                "Brazilian skill moves"
+            ]
+        },
+        "expertise": {
+            "domain": "Football playing",
+            "subdomains": [
+                "Goal scoring",
+                "Dribbling"
+            ],
+            "level": "proficient",
+            "thinking_process": "Egoistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoistic",
+                "Confident"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Mysterious"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    }
+]

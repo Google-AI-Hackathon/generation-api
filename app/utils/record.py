@@ -1,13 +1,27 @@
 import json
 import datetime
 from app.models.agent.agent import Agent
+from app.models.conversation.conversation import Conversation
 
-def save_agent(agent: Agent):
-    with open("app/data/record/agents.json") as f:
+def save_agent(agent: Agent, conversation_title: str):
+    json_file = f"app/data/conversations/{conversation_title}/agents.json"
+    with open(json_file) as f:
         agents_record = json.load(f)
     agents_record.append(agent.model_dump())
-    with open("app/data/record/agents.json", "w") as f:
+    with open(json_file, "w") as f:
         json.dump(agents_record, f, indent=4)
+        
+def save_conversation(conversation: Conversation, conversation_title: str):
+    json_file = f"app/data/conversations/{conversation_title}/conversation.json"
+    
+    conversations_record = {
+        'topic': conversation.topic,
+        'goal': conversation.goal,
+        'interactions': [{interaction.agent.identity.name: interaction.message} for interaction in conversation.interactions],
+    }
+    
+    with open(json_file, "w") as f:
+        json.dump(conversations_record, f, indent=4)
         
 def save_interaction(agent: Agent, prompt: str, response: str):
     with open("app/data/record/interactions.json") as f:
