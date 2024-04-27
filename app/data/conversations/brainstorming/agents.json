@@ -1,0 +1,530 @@
+[
+    {
+        "identity": {
+            "name": "Nobara",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
+            "memories": [
+                "Visited Silicon Valley last month"
+            ],
+            "interests": [
+                "Art",
+                "Fitness"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software Development",
+                "Artificial Intelligence"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Innovative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly"
+            ],
+            "emotional_tone": [
+                "Stable"
+            ],
+            "mental_tone": [
+                "Enthusiastic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Mark",
+            "age": 25
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "memories": [
+                "Making his first sale in his neighborhood"
+            ],
+            "interests": [
+                "Making money",
+                "Books"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Development",
+            "subdomains": [
+                "Entrepreneurship",
+                "Market Analysis"
+            ],
+            "level": "novice",
+            "thinking_process": "Opportunistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Talkative"
+            ],
+            "emotional_tone": [
+                "Determined",
+                "Motivated"
+            ],
+            "mental_tone": [
+                "Detail-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
+            "memories": [
+                "Winning a regional cup and best player award at the age of 14"
+            ],
+            "interests": [
+                "Football",
+                "Nutrition"
+            ]
+        },
+        "expertise": {
+            "domain": "Football",
+            "subdomains": [
+                "Striker"
+            ],
+            "level": "proficient",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoist"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Goal-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Nobara",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
+            "memories": [
+                "Visited Silicon Valley last month"
+            ],
+            "interests": [
+                "Art",
+                "Fitness"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software Development",
+                "Artificial Intelligence"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Innovative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly"
+            ],
+            "emotional_tone": [
+                "Stable"
+            ],
+            "mental_tone": [
+                "Enthusiastic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Mark",
+            "age": 25
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "memories": [
+                "Making his first sale in his neighborhood"
+            ],
+            "interests": [
+                "Making money",
+                "Books"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Development",
+            "subdomains": [
+                "Entrepreneurship",
+                "Market Analysis"
+            ],
+            "level": "novice",
+            "thinking_process": "Opportunistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Talkative"
+            ],
+            "emotional_tone": [
+                "Determined",
+                "Motivated"
+            ],
+            "mental_tone": [
+                "Detail-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
+            "memories": [
+                "Winning a regional cup and best player award at the age of 14"
+            ],
+            "interests": [
+                "Football",
+                "Nutrition"
+            ]
+        },
+        "expertise": {
+            "domain": "Football",
+            "subdomains": [
+                "Striker"
+            ],
+            "level": "proficient",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoist"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Goal-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Nobara",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
+            "memories": [
+                "Visited Silicon Valley last month"
+            ],
+            "interests": [
+                "Art",
+                "Fitness"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software Development",
+                "Artificial Intelligence"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Innovative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly"
+            ],
+            "emotional_tone": [
+                "Stable"
+            ],
+            "mental_tone": [
+                "Enthusiastic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Mark",
+            "age": 25
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "memories": [
+                "Making his first sale in his neighborhood"
+            ],
+            "interests": [
+                "Making money",
+                "Books"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Development",
+            "subdomains": [
+                "Entrepreneurship",
+                "Market Analysis"
+            ],
+            "level": "novice",
+            "thinking_process": "Opportunistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Talkative"
+            ],
+            "emotional_tone": [
+                "Determined",
+                "Motivated"
+            ],
+            "mental_tone": [
+                "Detail-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
+            "memories": [
+                "Winning a regional cup and best player award at the age of 14"
+            ],
+            "interests": [
+                "Football",
+                "Nutrition"
+            ]
+        },
+        "expertise": {
+            "domain": "Football",
+            "subdomains": [
+                "Striker"
+            ],
+            "level": "proficient",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoist"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Goal-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Nobara",
+            "age": 22
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
+            "memories": [
+                "Visited Silicon Valley last month"
+            ],
+            "interests": [
+                "Art",
+                "Fitness"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software Development",
+                "Artificial Intelligence"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Innovative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly"
+            ],
+            "emotional_tone": [
+                "Stable"
+            ],
+            "mental_tone": [
+                "Enthusiastic"
+            ],
+            "flexibility": "adaptable",
+            "attitude": "optimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Mark",
+            "age": 25
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "memories": [
+                "Making his first sale in his neighborhood"
+            ],
+            "interests": [
+                "Making money",
+                "Books"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Development",
+            "subdomains": [
+                "Entrepreneurship",
+                "Market Analysis"
+            ],
+            "level": "novice",
+            "thinking_process": "Opportunistic"
+        },
+        "mood": {
+            "social_tone": [
+                "Talkative"
+            ],
+            "emotional_tone": [
+                "Determined",
+                "Motivated"
+            ],
+            "mental_tone": [
+                "Detail-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "pessimistic"
+        }
+    },
+    {
+        "identity": {
+            "name": "Yuri",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
+            "memories": [
+                "Winning a regional cup and best player award at the age of 14"
+            ],
+            "interests": [
+                "Football",
+                "Nutrition"
+            ]
+        },
+        "expertise": {
+            "domain": "Football",
+            "subdomains": [
+                "Striker"
+            ],
+            "level": "proficient",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Egoist"
+            ],
+            "emotional_tone": [
+                "Dreamy"
+            ],
+            "mental_tone": [
+                "Goal-oriented"
+            ],
+            "flexibility": "consistent",
+            "attitude": "optimistic"
+        }
+    }
+]

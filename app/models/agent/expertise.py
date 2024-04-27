@@ -4,7 +4,7 @@ from enum import Enum
 
 class Level(str, Enum):
     novice = "novice"
-    intermediste = "intermediate"
+    intermediate = "intermediate"
     proficient = "proficient"
     expert = "expert"
 

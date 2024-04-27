@@ -3,3 +3,4 @@ package.egg-info/
 __pycache__/
 .env
 test.py
+test.json
