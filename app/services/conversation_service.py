@@ -4,6 +4,7 @@ from app.models.agent.conversational_agent import ConversationalAgent
 from app.models.conversation.conversation import Conversation, Interaction, Counter
 
 from app.services.agent_service import generate_conversation_interaction_response
+from app.utils.conversation import shuffle_participants
 
 def initialize_conversation(agents: list[ConversationalAgent]) -> Conversation:
     counter = Counter(remaining_interactions={agent.identity.name: MAX_AGENT_INTERACTIONS for agent in agents})
@@ -17,5 +18,6 @@ def run_conversation(conversation: Conversation):
             response = generate_conversation_interaction_response(agent, conversation)
             conversation.interactions.append(Interaction(agent=agent, message=response))
             conversation.counter.remaining_interactions[agent.identity.name] -= 1
+        shuffle_participants(conversation)
     print("Conversation complete")
             
