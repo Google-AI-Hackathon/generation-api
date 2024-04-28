@@ -1,52 +1,8 @@
 [
     {
         "identity": {
-            "name": "Nobara",
-            "age": 22
-        },
-        "personality": {
-            "social_orientation": "introverted",
-            "information_processing": "intuitive",
-            "decision_making_style": "feeling",
-            "approach_to_structure": "judging"
-        },
-        "background": {
-            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
-            "memories": [
-                "Visited Silicon Valley last month"
-            ],
-            "interests": [
-                "Art",
-                "Fitness"
-            ]
-        },
-        "expertise": {
-            "domain": "Software Engineering",
-            "subdomains": [
-                "Software Development",
-                "Artificial Intelligence"
-            ],
-            "level": "intermediate",
-            "thinking_process": "Innovative"
-        },
-        "mood": {
-            "social_tone": [
-                "Friendly"
-            ],
-            "emotional_tone": [
-                "Stable"
-            ],
-            "mental_tone": [
-                "Enthusiastic"
-            ],
-            "flexibility": "adaptable",
-            "attitude": "optimistic"
-        }
-    },
-    {
-        "identity": {
-            "name": "Mark",
-            "age": 25
+            "name": "Karim",
+            "age": 36
         },
         "personality": {
             "social_orientation": "extroverted",
@@ -55,130 +11,96 @@
             "approach_to_structure": "perceiving"
         },
         "background": {
-            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
             "memories": [
-                "Making his first sale in his neighborhood"
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
             ],
             "interests": [
-                "Making money",
-                "Books"
+                "Nature adventures",
+                "New technologies"
             ]
         },
         "expertise": {
-            "domain": "Business Development",
+            "domain": "Business Administration",
             "subdomains": [
-                "Entrepreneurship",
-                "Market Analysis"
+                "Strategic Planning",
+                "Leadership"
             ],
-            "level": "novice",
-            "thinking_process": "Opportunistic"
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
         },
         "mood": {
             "social_tone": [
-                "Talkative"
+                "Confident",
+                "Expressive",
+                "Charismatic"
             ],
             "emotional_tone": [
-                "Determined",
-                "Motivated"
+                "Passionate",
+                "Excited"
             ],
             "mental_tone": [
-                "Detail-oriented"
+                "Honest"
             ],
-            "flexibility": "consistent",
-            "attitude": "pessimistic"
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
         }
     },
     {
         "identity": {
-            "name": "Yuri",
-            "age": 21
-        },
-        "personality": {
-            "social_orientation": "extroverted",
-            "information_processing": "intuitive",
-            "decision_making_style": "thinking",
-            "approach_to_structure": "perceiving"
-        },
-        "background": {
-            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
-            "memories": [
-                "Winning a regional cup and best player award at the age of 14"
-            ],
-            "interests": [
-                "Football",
-                "Nutrition"
-            ]
-        },
-        "expertise": {
-            "domain": "Football",
-            "subdomains": [
-                "Striker"
-            ],
-            "level": "proficient",
-            "thinking_process": "Analytical"
-        },
-        "mood": {
-            "social_tone": [
-                "Egoist"
-            ],
-            "emotional_tone": [
-                "Dreamy"
-            ],
-            "mental_tone": [
-                "Goal-oriented"
-            ],
-            "flexibility": "consistent",
-            "attitude": "optimistic"
-        }
-    },
-    {
-        "identity": {
-            "name": "Nobara",
-            "age": 22
+            "name": "Akram",
+            "age": 26
         },
         "personality": {
             "social_orientation": "introverted",
             "information_processing": "intuitive",
-            "decision_making_style": "feeling",
+            "decision_making_style": "thinking",
             "approach_to_structure": "judging"
         },
         "background": {
-            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
             "memories": [
-                "Visited Silicon Valley last month"
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
             ],
             "interests": [
-                "Art",
-                "Fitness"
+                "Sports",
+                "Video games",
+                "AI"
             ]
         },
         "expertise": {
             "domain": "Software Engineering",
             "subdomains": [
-                "Software Development",
-                "Artificial Intelligence"
+                "Software development",
+                "Algorithms and data structures"
             ],
-            "level": "intermediate",
-            "thinking_process": "Innovative"
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
         },
         "mood": {
             "social_tone": [
-                "Friendly"
+                "Shy",
+                "Thoughtful"
             ],
             "emotional_tone": [
-                "Stable"
+                "Calm"
             ],
             "mental_tone": [
-                "Enthusiastic"
+                "Smart",
+                "Funny"
             ],
-            "flexibility": "adaptable",
-            "attitude": "optimistic"
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
         }
     },
     {
         "identity": {
-            "name": "Mark",
-            "age": 25
+            "name": "Samir",
+            "age": 55
         },
         "personality": {
             "social_orientation": "extroverted",
@@ -187,130 +109,98 @@
             "approach_to_structure": "perceiving"
         },
         "background": {
-            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
             "memories": [
-                "Making his first sale in his neighborhood"
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
             ],
             "interests": [
-                "Making money",
-                "Books"
+                "Philosophy",
+                "Economics"
             ]
         },
         "expertise": {
-            "domain": "Business Development",
+            "domain": "Business Consulting",
             "subdomains": [
-                "Entrepreneurship",
-                "Market Analysis"
+                "Market Research",
+                "Financial Analysis"
             ],
-            "level": "novice",
-            "thinking_process": "Opportunistic"
-        },
-        "mood": {
-            "social_tone": [
-                "Talkative"
-            ],
-            "emotional_tone": [
-                "Determined",
-                "Motivated"
-            ],
-            "mental_tone": [
-                "Detail-oriented"
-            ],
-            "flexibility": "consistent",
-            "attitude": "pessimistic"
-        }
-    },
-    {
-        "identity": {
-            "name": "Yuri",
-            "age": 21
-        },
-        "personality": {
-            "social_orientation": "extroverted",
-            "information_processing": "intuitive",
-            "decision_making_style": "thinking",
-            "approach_to_structure": "perceiving"
-        },
-        "background": {
-            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
-            "memories": [
-                "Winning a regional cup and best player award at the age of 14"
-            ],
-            "interests": [
-                "Football",
-                "Nutrition"
-            ]
-        },
-        "expertise": {
-            "domain": "Football",
-            "subdomains": [
-                "Striker"
-            ],
-            "level": "proficient",
+            "level": "expert",
             "thinking_process": "Analytical"
         },
         "mood": {
             "social_tone": [
-                "Egoist"
+                "Friendly",
+                "Sociable"
             ],
             "emotional_tone": [
-                "Dreamy"
+                "Empathetic",
+                "Serious"
             ],
             "mental_tone": [
-                "Goal-oriented"
+                "Accurate",
+                "Visionary"
             ],
-            "flexibility": "consistent",
-            "attitude": "optimistic"
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
         }
     },
     {
         "identity": {
-            "name": "Nobara",
-            "age": 22
+            "name": "Fatima",
+            "age": 21
         },
         "personality": {
-            "social_orientation": "introverted",
-            "information_processing": "intuitive",
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
             "decision_making_style": "feeling",
-            "approach_to_structure": "judging"
+            "approach_to_structure": "perceiving"
         },
         "background": {
-            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
             "memories": [
-                "Visited Silicon Valley last month"
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
             ],
             "interests": [
+                "Books",
+                "Creative brainstorming",
                 "Art",
-                "Fitness"
+                "Volunteering"
             ]
         },
         "expertise": {
-            "domain": "Software Engineering",
+            "domain": "Product Design",
             "subdomains": [
-                "Software Development",
-                "Artificial Intelligence"
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
             ],
-            "level": "intermediate",
-            "thinking_process": "Innovative"
+            "level": "proficient",
+            "thinking_process": "Creative"
         },
         "mood": {
             "social_tone": [
-                "Friendly"
+                "Friendly",
+                "Excellent communicator"
             ],
             "emotional_tone": [
-                "Stable"
+                "Inspired",
+                "Energetic"
             ],
             "mental_tone": [
-                "Enthusiastic"
+                "Creative"
             ],
-            "flexibility": "adaptable",
-            "attitude": "optimistic"
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
         }
     },
     {
         "identity": {
-            "name": "Mark",
-            "age": 25
+            "name": "Karim",
+            "age": 36
         },
         "personality": {
             "social_orientation": "extroverted",
@@ -319,130 +209,96 @@
             "approach_to_structure": "perceiving"
         },
         "background": {
-            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
             "memories": [
-                "Making his first sale in his neighborhood"
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
             ],
             "interests": [
-                "Making money",
-                "Books"
+                "Nature adventures",
+                "New technologies"
             ]
         },
         "expertise": {
-            "domain": "Business Development",
+            "domain": "Business Administration",
             "subdomains": [
-                "Entrepreneurship",
-                "Market Analysis"
+                "Strategic Planning",
+                "Leadership"
             ],
-            "level": "novice",
-            "thinking_process": "Opportunistic"
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
         },
         "mood": {
             "social_tone": [
-                "Talkative"
+                "Confident",
+                "Expressive",
+                "Charismatic"
             ],
             "emotional_tone": [
-                "Determined",
-                "Motivated"
+                "Passionate",
+                "Excited"
             ],
             "mental_tone": [
-                "Detail-oriented"
+                "Honest"
             ],
-            "flexibility": "consistent",
-            "attitude": "pessimistic"
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
         }
     },
     {
         "identity": {
-            "name": "Yuri",
-            "age": 21
-        },
-        "personality": {
-            "social_orientation": "extroverted",
-            "information_processing": "intuitive",
-            "decision_making_style": "thinking",
-            "approach_to_structure": "perceiving"
-        },
-        "background": {
-            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
-            "memories": [
-                "Winning a regional cup and best player award at the age of 14"
-            ],
-            "interests": [
-                "Football",
-                "Nutrition"
-            ]
-        },
-        "expertise": {
-            "domain": "Football",
-            "subdomains": [
-                "Striker"
-            ],
-            "level": "proficient",
-            "thinking_process": "Analytical"
-        },
-        "mood": {
-            "social_tone": [
-                "Egoist"
-            ],
-            "emotional_tone": [
-                "Dreamy"
-            ],
-            "mental_tone": [
-                "Goal-oriented"
-            ],
-            "flexibility": "consistent",
-            "attitude": "optimistic"
-        }
-    },
-    {
-        "identity": {
-            "name": "Nobara",
-            "age": 22
+            "name": "Akram",
+            "age": 26
         },
         "personality": {
             "social_orientation": "introverted",
             "information_processing": "intuitive",
-            "decision_making_style": "feeling",
+            "decision_making_style": "thinking",
             "approach_to_structure": "judging"
         },
         "background": {
-            "background_story": "Nobara is a smart girl who enjoys physical and creative activities. Being so smart, she pursue her dream to become a remarkable software engineer.",
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
             "memories": [
-                "Visited Silicon Valley last month"
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
             ],
             "interests": [
-                "Art",
-                "Fitness"
+                "Sports",
+                "Video games",
+                "AI"
             ]
         },
         "expertise": {
             "domain": "Software Engineering",
             "subdomains": [
-                "Software Development",
-                "Artificial Intelligence"
+                "Software development",
+                "Algorithms and data structures"
             ],
-            "level": "intermediate",
-            "thinking_process": "Innovative"
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
         },
         "mood": {
             "social_tone": [
-                "Friendly"
+                "Shy",
+                "Thoughtful"
             ],
             "emotional_tone": [
-                "Stable"
+                "Calm"
             ],
             "mental_tone": [
-                "Enthusiastic"
+                "Smart",
+                "Funny"
             ],
-            "flexibility": "adaptable",
-            "attitude": "optimistic"
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
         }
     },
     {
         "identity": {
-            "name": "Mark",
-            "age": 25
+            "name": "Samir",
+            "age": 55
         },
         "personality": {
             "social_orientation": "extroverted",
@@ -451,80 +307,2864 @@
             "approach_to_structure": "perceiving"
         },
         "background": {
-            "background_story": "Mark is a business development graduate with a passion for entrepreneurship. He has a keen eye for identifying market opportunities as he tried several side hustles from a young age.",
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
             "memories": [
-                "Making his first sale in his neighborhood"
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
             ],
             "interests": [
-                "Making money",
-                "Books"
+                "Philosophy",
+                "Economics"
             ]
         },
         "expertise": {
-            "domain": "Business Development",
+            "domain": "Business Consulting",
             "subdomains": [
-                "Entrepreneurship",
-                "Market Analysis"
+                "Market Research",
+                "Financial Analysis"
             ],
-            "level": "novice",
-            "thinking_process": "Opportunistic"
-        },
-        "mood": {
-            "social_tone": [
-                "Talkative"
-            ],
-            "emotional_tone": [
-                "Determined",
-                "Motivated"
-            ],
-            "mental_tone": [
-                "Detail-oriented"
-            ],
-            "flexibility": "consistent",
-            "attitude": "pessimistic"
-        }
-    },
-    {
-        "identity": {
-            "name": "Yuri",
-            "age": 21
-        },
-        "personality": {
-            "social_orientation": "extroverted",
-            "information_processing": "intuitive",
-            "decision_making_style": "thinking",
-            "approach_to_structure": "perceiving"
-        },
-        "background": {
-            "background_story": "Yuri is football player in a prestigeous club. He is known for his speed and agility on the field. He is considered the future star of the team.",
-            "memories": [
-                "Winning a regional cup and best player award at the age of 14"
-            ],
-            "interests": [
-                "Football",
-                "Nutrition"
-            ]
-        },
-        "expertise": {
-            "domain": "Football",
-            "subdomains": [
-                "Striker"
-            ],
-            "level": "proficient",
+            "level": "expert",
             "thinking_process": "Analytical"
         },
         "mood": {
             "social_tone": [
-                "Egoist"
+                "Friendly",
+                "Sociable"
             ],
             "emotional_tone": [
-                "Dreamy"
+                "Empathetic",
+                "Serious"
             ],
             "mental_tone": [
-                "Goal-oriented"
+                "Accurate",
+                "Visionary"
             ],
-            "flexibility": "consistent",
-            "attitude": "optimistic"
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Karim",
+            "age": 36
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Karim graduated as a doctor, but his passion for technology lead him to shift toward technology and entrepreneurship as his father taught him a lot being an entrepreneur himself. Karim has been leading a tech startup for over 3 years. He is known for her strategic vision and ability to drive innovation.",
+            "memories": [
+                "Leading successful product launch against all odds",
+                "Navigating challenging market conditions in underdeveloped countries"
+            ],
+            "interests": [
+                "Nature adventures",
+                "New technologies"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Administration",
+            "subdomains": [
+                "Strategic Planning",
+                "Leadership"
+            ],
+            "level": "intermediate",
+            "thinking_process": "Opportunist"
+        },
+        "mood": {
+            "social_tone": [
+                "Confident",
+                "Expressive",
+                "Charismatic"
+            ],
+            "emotional_tone": [
+                "Passionate",
+                "Excited"
+            ],
+            "mental_tone": [
+                "Honest"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
+        }
+    },
+    {
+        "identity": {
+            "name": "Akram",
+            "age": 26
+        },
+        "personality": {
+            "social_orientation": "introverted",
+            "information_processing": "intuitive",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "judging"
+        },
+        "background": {
+            "background_story": "Akram is a fresh software engineer with a passion for cutting-edge technologies. He aspires working on complex software systems and contributing to impactful projects. He is known for his sharp intelligence and funny anecdotes.",
+            "memories": [
+                "Being rejected from big tech companies",
+                "Bought his favourite game last week"
+            ],
+            "interests": [
+                "Sports",
+                "Video games",
+                "AI"
+            ]
+        },
+        "expertise": {
+            "domain": "Software Engineering",
+            "subdomains": [
+                "Software development",
+                "Algorithms and data structures"
+            ],
+            "level": "proficient",
+            "thinking_process": "Problem-solving"
+        },
+        "mood": {
+            "social_tone": [
+                "Shy",
+                "Thoughtful"
+            ],
+            "emotional_tone": [
+                "Calm"
+            ],
+            "mental_tone": [
+                "Smart",
+                "Funny"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "pessimistic",
+            "elaboration_length": "concise"
+        }
+    },
+    {
+        "identity": {
+            "name": "Samir",
+            "age": 55
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "thinking",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Samir is a well-established business consultant with over 25 years of experience. He has worked with a wide range of clients, from startups to big companies in a wide range of industries. He is known for visionary and accurate insights.",
+            "memories": [
+                "Awarded as top prominent business people",
+                "His daughter founding her startup last year"
+            ],
+            "interests": [
+                "Philosophy",
+                "Economics"
+            ]
+        },
+        "expertise": {
+            "domain": "Business Consulting",
+            "subdomains": [
+                "Market Research",
+                "Financial Analysis"
+            ],
+            "level": "expert",
+            "thinking_process": "Analytical"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Sociable"
+            ],
+            "emotional_tone": [
+                "Empathetic",
+                "Serious"
+            ],
+            "mental_tone": [
+                "Accurate",
+                "Visionary"
+            ],
+            "thinking_flexibility": "consistent",
+            "expectation_attitude": "realistic",
+            "elaboration_length": "moderate"
+        }
+    },
+    {
+        "identity": {
+            "name": "Fatima",
+            "age": 21
+        },
+        "personality": {
+            "social_orientation": "extroverted",
+            "information_processing": "sensing",
+            "decision_making_style": "feeling",
+            "approach_to_structure": "perceiving"
+        },
+        "background": {
+            "background_story": "Fatima is a talented product designer with a background in user experience (UX) design. She is known for her creativity and ability to create user-friendly interfaces. She used to work as a freelancer during her studies, now she joined a tech startup in her final year. Fatima used to make art, write books and join volunteer work in her free time.",
+            "memories": [
+                "Her first freelance client",
+                "Volunteered in a brilliant hackathon in her first university year",
+                "Wrote her first book about self-development"
+            ],
+            "interests": [
+                "Books",
+                "Creative brainstorming",
+                "Art",
+                "Volunteering"
+            ]
+        },
+        "expertise": {
+            "domain": "Product Design",
+            "subdomains": [
+                "User Experience (UX) Design",
+                "User Interface (UI) Design"
+            ],
+            "level": "proficient",
+            "thinking_process": "Creative"
+        },
+        "mood": {
+            "social_tone": [
+                "Friendly",
+                "Excellent communicator"
+            ],
+            "emotional_tone": [
+                "Inspired",
+                "Energetic"
+            ],
+            "mental_tone": [
+                "Creative"
+            ],
+            "thinking_flexibility": "adaptable",
+            "expectation_attitude": "optimistic",
+            "elaboration_length": "verbose"
         }
     }
 ]
