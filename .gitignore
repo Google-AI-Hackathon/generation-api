@@ -4,3 +4,5 @@ __pycache__/
 .env
 test.py
 test.json
+service_account.json
+media/*.wav
