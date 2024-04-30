@@ -2,9 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routers import conversation_router
 
-
-
 app = FastAPI()
+
 app.add_middleware(
     CORSMiddleware,
     # allow_credentials=True,
@@ -12,7 +11,6 @@ app.add_middleware(
     allow_headers=["*"],
     allow_methods=['GET', 'POST', 'PUT', 'DELETE'],
 )
-
 
 @app.get("/")
 async def root():

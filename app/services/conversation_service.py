@@ -4,6 +4,7 @@ from app.models.agent.conversational_agent import ConversationalAgent
 from app.models.conversation.conversation import Conversation, Interaction, Counter
 
 from app.services.agent_service import generate_conversation_interaction_response
+from app.services.tts_service import synthesize_text
 from app.utils.conversation import shuffle_participants
 
 def initialize_conversation(agents: list[ConversationalAgent]) -> Conversation:
