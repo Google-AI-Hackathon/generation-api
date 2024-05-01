@@ -3,3 +3,5 @@ python-dotenv
 fastapi
 uvicorn
 google-generativeai==0.5.2
+google-cloud-texttospeech
+pydub

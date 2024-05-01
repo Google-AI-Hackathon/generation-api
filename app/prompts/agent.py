@@ -1,8 +1,11 @@
 from app.models.agent.agent import Agent
+
 from app.models.agent.conversational_agent import ConversationalAgent
 from app.models.conversation.conversation import Conversation
+from app.models.podcast.podcast import DualPodcast
 
 from app.prompts.conversation import conversation_prompt
+from app.prompts.podcast import host_prompt, participant_prompt
 
 def agent_prompt(agent: Agent):
     return f"""
@@ -40,3 +43,9 @@ def single_interaction_prompt(agent: Agent, prompt: str):
 
 def conversational_interaction_prompt(agent: ConversationalAgent, conversation: Conversation):
     return f"{agent_prompt(agent)}\n{conversation_prompt(conversation, agent)}\nYour turn: "
+
+def podcast_host_interaction_prompt(agent: Agent, podcast: DualPodcast):
+    return f"{agent_prompt(agent)}\n{host_prompt(podcast)}\nYour turn: "
+
+def podcast_participant_interaction_prompt(agent: Agent, podcast: DualPodcast):
+    return f"{agent_prompt(agent)}\n{participant_prompt(podcast)}\nYour turn: "

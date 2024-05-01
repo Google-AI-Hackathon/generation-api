@@ -1,8 +1,10 @@
-from app.setup.config import MAX_CONTEXT_INTERACTIONS
+from app.setup.config import MAX_CONVERSATION_CONTEXT_INTERACTIONS, MAX_PODCAST_CONTEXT_INTERACTIONS
 from app.models.agent.conversational_agent import ConversationalAgent
-from app.models.conversation.interaction import Interaction, InteractionResponse
+from app.models.interaction.interaction import Interaction, InteractionResponse
 from app.models.conversation.conversation import Conversation
 from app.models.relation.relation import Relation
+
+from app.models.podcast.podcast import DualPodcast
 
 def interaction_as_context(interaction: Interaction) -> str:
     return f"""
@@ -42,6 +44,13 @@ def conversation_interactions_as_context(conversation_interactions: list[Interac
 
 def get_context(conversation: Conversation) -> str:
     context = ""
-    for interaction in conversation.interactions[-MAX_CONTEXT_INTERACTIONS:]:
+    for interaction in conversation.interactions[-MAX_CONVERSATION_CONTEXT_INTERACTIONS:]:
+        context += interaction_as_context(interaction)
+    return context
+
+# Podcast
+def get_podcast_context(podcast: DualPodcast) -> str:
+    context = ""
+    for interaction in podcast.interactions[-MAX_PODCAST_CONTEXT_INTERACTIONS:]:
         context += interaction_as_context(interaction)
     return context
