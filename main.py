@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import conversation_router
+from app.routers import conversation_router, summary_router, podcast_router
+
+from pathlib import Path
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
 
@@ -12,8 +15,12 @@ app.add_middleware(
     allow_methods=['GET', 'POST', 'PUT', 'DELETE'],
 )
 
-@app.get("/")
-async def root():
-    return {"message": "Google AI Hackathon from Algeria!"}
+app.mount("/media", StaticFiles(directory=Path('media')), name="media")
 
-app.include_router(conversation_router.router, prefix="/conversations", tags=["conversations"])
+@app.get("/", tags=["StormingAI"])
+async def storming_ai():
+    return {"message": "StormingAI in Google AI Hackathon from Algeria!"}
+
+app.include_router(conversation_router.router, prefix="/conversation", tags=["Conversation"])
+app.include_router(summary_router.router, prefix="/summary", tags=["Summary"])
+app.include_router(podcast_router.router, prefix="/podcast", tags=["Podcast"])

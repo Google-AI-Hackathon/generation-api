@@ -34,8 +34,8 @@ def run_dual_podcast(podcast: DualPodcast):
             podcast.interactions.append(Interaction(agent=agent, message=response))
             podcast.counter.remaining_interactions[agent.identity.name] -= 1
     print("Podcast complete")
-    
-def podcast_audio(podcast: DualPodcast, filename: str):
+ 
+def save_dual_podcast_audio(podcast: DualPodcast, filename: str):
     host_voice = random_voice(podcast.host.identity.gender)
     participant_voice = random_voice(podcast.participant.identity.gender)
     audio_sequence = []

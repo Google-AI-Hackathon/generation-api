@@ -1,10 +1,14 @@
 import os
+import uuid
 import json
 from app.models.agent.agent import Agent
 from app.models.conversation.conversation import Conversation
 from app.models.podcast.podcast import DualPodcast
 from app.models.interaction.interaction import Interaction, InteractionResponse
 from app.utils.conversation import get_interaction_response
+
+def random_string() -> str:
+    return str(uuid.uuid4())
 
 def save_agent(agent: Agent, title: str):
     if not os.path.exists(f"app/data/simulation/{title}"):
