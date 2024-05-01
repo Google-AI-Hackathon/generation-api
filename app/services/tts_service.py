@@ -7,9 +7,9 @@ from app.models.tts.tts import TTSRequest
 from app.models.tts.voice import Voice
 
 from app.setup.config import TTS_LANGUAGE
-# from app.setup.creds import set_google_application_credentials
+from app.setup.creds import set_google_application_credentials
 
-# set_google_application_credentials()
+set_google_application_credentials()
 client = TextToSpeechClient()
 
 def list_voices(language_code: str = TTS_LANGUAGE, save: bool = False):
