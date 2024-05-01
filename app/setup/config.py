@@ -10,8 +10,10 @@ LLM = genai.GenerativeModel(
         temperature=TEMPERATURE,
     ))
 
-MAX_CONVERSATION_AGENTS = 8
-MAX_AGENT_INTERACTIONS = 5
-MAX_CONTEXT_INTERACTIONS = 4
+# Conversation Configuration
+MAX_CONVERSATION_CONTEXT_INTERACTIONS = 4
+
+# Podcast Configuration
+MAX_PODCAST_CONTEXT_INTERACTIONS = 3
 
 TTS_LANGUAGE = 'en-US'

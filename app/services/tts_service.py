@@ -21,10 +21,10 @@ def list_voices(language_code: str = TTS_LANGUAGE, save: bool = False):
 
 def save_list_voices(voices):
     saved_voices = [{'name':voice.name, 'ssml_gender':voice.ssml_gender} for voice in voices]
-    with open('app/data/voices/voices.json', 'w') as f:
+    with open('app/data/podcast/voices/voices.json', 'w') as f:
         json.dump(saved_voices, f, indent=4)
 
-def synthesize_text(params: TTSRequest, save: bool = False):
+def synthesize_text(params: TTSRequest):
     synthesis_input = tts.SynthesisInput(text=params.text)
     voice = tts.VoiceSelectionParams(
         language_code=params.language, name=params.voice_name.name
@@ -35,13 +35,9 @@ def synthesize_text(params: TTSRequest, save: bool = False):
     response = client.synthesize_speech(
         input=synthesis_input, voice=voice, audio_config=audio_config
     )
-    
-    if save:
-        save_tts(params, response.audio_content)
     return response.audio_content
 
-def save_tts(params: TTSRequest, audio_content):
-    filename: str = f"./media/{params.voice_name}-{str(uuid4())}.wav"
+def save_tts(audio_content, filename: str):
     with open(filename, "wb") as out:
         out.write(audio_content)
     return filename

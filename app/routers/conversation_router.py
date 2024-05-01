@@ -3,7 +3,7 @@ from typing import List
 
 from app.controllers.conversation_controller import create_conversation_controller
 from app.models.conversation.conversation import ConversationRequest
-from app.models.conversation.interaction import InteractionResponse
+from app.models.interaction.interaction import InteractionResponse
 
 from app.utils.response import interaction_as_response
 from app.utils.record import save_conversation

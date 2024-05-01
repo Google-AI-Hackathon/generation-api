@@ -1,5 +1,5 @@
 from app.prompts.report import report_prompt
-from app.models.conversation.interaction import InteractionResponse
+from app.models.interaction.interaction import InteractionResponse
 from app.services.llm_service import generate_response
 
 def generate_report(conversation_interactions: list[InteractionResponse]):

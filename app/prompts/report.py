@@ -1,5 +1,5 @@
 from typing import List
-from app.models.conversation.interaction import InteractionResponse
+from app.models.interaction.interaction import InteractionResponse
 
 from app.utils.context import conversation_interactions_as_context
 

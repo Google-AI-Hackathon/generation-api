@@ -1,30 +1,26 @@
-import os
 import json
+import random
+from io import BytesIO
 from pydub import AudioSegment
 
 from app.models.tts.voice import Voice
-from app.models.tts.tts import TTSRequest
-from app.services.tts_service import synthesize_text
+from app.models.agent.identity import Gender
 
-def podcast_to_voice(conversation_title: str, voice_names: list[str]):
-    with open('app/data/conversations/podcast/conversation.json', 'r') as f:
-        conversation = json.load(f)
-    for i, interaction in enumerate(conversation):
-        params = TTSRequest(
-            text = interaction['message'],
-            voice_name=Voice(name=voice_names[i % 2], ssml_gender=1)
-        )
-        interaction_audio = synthesize_text(params=params)
-        with open(f"app/data/conversations/podcast/voice/{i+1}.wav", "wb") as out:
-            out.write(interaction_audio)
+def gender_num(gender: Gender):
+    return 1 if gender==Gender.male else 2
 
-def merge_wav_files(directory, output_file):
-    wav_files = [file for file in os.listdir(directory) if file.endswith(".wav")]
+def gender_voices(gender: Gender):
+    with open('app/data/podcast/voices/voices.json', 'r') as f:
+        voices = json.load(f)
+    return [Voice(**voice) for voice in voices if voice['ssml_gender']==gender_num(gender)]
 
-    wav_files.sort(key=lambda x: int(os.path.splitext(x)[0]))
+def random_voice(gender: Gender):
+    return random.choice(gender_voices(gender))
+
+def merge_audio_sequence(audio_sequence, filename: str):
     merged_audio = AudioSegment.silent(duration=0)
-    for wav_file in wav_files:
-        audio = AudioSegment.from_wav(os.path.join(directory, wav_file))
-        merged_audio += audio
-
-    merged_audio.export(output_file, format="wav")
+    for audio_bytes in audio_sequence:
+        audio_segment = AudioSegment.from_file(BytesIO(audio_bytes), format="wav")
+        merged_audio += audio_segment
+    merged_audio.export(filename, format="wav")
+    return filename

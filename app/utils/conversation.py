@@ -1,7 +1,7 @@
 import random
 
 from app.models.conversation.conversation import Conversation
-from app.models.conversation.interaction import Interaction, InteractionResponse
+from app.models.interaction.interaction import Interaction, InteractionResponse
 
 def shuffle_participants(conversation: Conversation):
     random.shuffle(conversation.participants)
