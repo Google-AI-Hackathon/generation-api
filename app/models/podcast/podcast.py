@@ -4,8 +4,8 @@ from typing import List
 from app.models.agent.agent import Agent
 
 from app.models.podcast.style import Style
-from app.models.podcast.depth import Depth
-from app.models.podcast.detail import DetailLevel
+from app.models.option.depth import Depth
+from app.models.option.detail import DetailLevel
 
 from app.models.interaction.interaction import Interaction, InteractionResponse
 from app.models.interaction.counter import Counter

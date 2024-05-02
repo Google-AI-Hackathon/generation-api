@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 
 MODEL_NAME = 'gemini-pro'
-TEMPERATURE = 0.5
+TEMPERATURE = 1.0
 
 LLM = genai.GenerativeModel(
     MODEL_NAME,
