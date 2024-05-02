@@ -1,0 +1,281 @@
+{
+    "title": "Productivity",
+    "children": [
+        {
+            "title": "Time Management",
+            "children": [
+                {
+                    "title": "Eisenhower Matrix",
+                    "children": [
+                        {
+                            "title": "Urgent and Important",
+                            "children": []
+                        },
+                        {
+                            "title": "Important but Not Urgent",
+                            "children": []
+                        },
+                        {
+                            "title": "Urgent but Not Important",
+                            "children": []
+                        },
+                        {
+                            "title": "Not Important or Urgent",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Pomodoro Technique",
+                    "children": [
+                        {
+                            "title": "Work for 25 minutes",
+                            "children": []
+                        },
+                        {
+                            "title": "Break for 5 minutes",
+                            "children": []
+                        },
+                        {
+                            "title": "Repeat four times",
+                            "children": []
+                        },
+                        {
+                            "title": "Take a longer break",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "GTD (Getting Things Done)",
+                    "children": [
+                        {
+                            "title": "Capture",
+                            "children": []
+                        },
+                        {
+                            "title": "Clarify",
+                            "children": []
+                        },
+                        {
+                            "title": "Organize",
+                            "children": []
+                        },
+                        {
+                            "title": "Reflect",
+                            "children": []
+                        },
+                        {
+                            "title": "Engage",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Goal Setting",
+            "children": [
+                {
+                    "title": "SMART Goals",
+                    "children": [
+                        {
+                            "title": "Specific",
+                            "children": []
+                        },
+                        {
+                            "title": "Measurable",
+                            "children": []
+                        },
+                        {
+                            "title": "Achievable",
+                            "children": []
+                        },
+                        {
+                            "title": "Relevant",
+                            "children": []
+                        },
+                        {
+                            "title": "Time-Bound",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "OKRs (Objectives and Key Results)",
+                    "children": [
+                        {
+                            "title": "Objectives",
+                            "children": []
+                        },
+                        {
+                            "title": "Key Results",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Vision Boards",
+                    "children": [
+                        {
+                            "title": "Visual representation of goals",
+                            "children": []
+                        },
+                        {
+                            "title": "Motivating",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Habit Building",
+            "children": [
+                {
+                    "title": "Atomic Habits",
+                    "children": [
+                        {
+                            "title": "Small, incremental changes",
+                            "children": []
+                        },
+                        {
+                            "title": "Make it easy",
+                            "children": []
+                        },
+                        {
+                            "title": "Focus on the process, not the outcome",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Habit Stacking",
+                    "children": [
+                        {
+                            "title": "Link new habits to existing ones",
+                            "children": []
+                        },
+                        {
+                            "title": "Make it a routine",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "The Power of Habit",
+                    "children": [
+                        {
+                            "title": "Cues",
+                            "children": []
+                        },
+                        {
+                            "title": "Routine",
+                            "children": []
+                        },
+                        {
+                            "title": "Reward",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Deep Work",
+            "children": [
+                {
+                    "title": "Distraction-Free Environment",
+                    "children": [
+                        {
+                            "title": "Quiet space",
+                            "children": []
+                        },
+                        {
+                            "title": "Noise-canceling headphones",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Time Blocking",
+                    "children": [
+                        {
+                            "title": "Schedule specific time slots for focused work",
+                            "children": []
+                        },
+                        {
+                            "title": "Stick to the schedule",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "The Pomodoro Technique",
+                    "children": [
+                        {
+                            "title": "Work for 25 minutes",
+                            "children": []
+                        },
+                        {
+                            "title": "Break for 5 minutes",
+                            "children": []
+                        },
+                        {
+                            "title": "Repeat four times",
+                            "children": []
+                        },
+                        {
+                            "title": "Take a longer break",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Focus",
+            "children": [
+                {
+                    "title": "Mindfulness",
+                    "children": [
+                        {
+                            "title": "Pay attention to the present moment",
+                            "children": []
+                        },
+                        {
+                            "title": "Reduce distractions",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Meditation",
+                    "children": [
+                        {
+                            "title": "Practice regularly",
+                            "children": []
+                        },
+                        {
+                            "title": "Focus on your breath",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Declutter",
+                    "children": [
+                        {
+                            "title": "Remove physical distractions",
+                            "children": []
+                        },
+                        {
+                            "title": "Organize your workspace",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

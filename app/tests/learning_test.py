@@ -1,22 +1,20 @@
-import json
-
 from app.models.learning.learning import LearningRequest, Terminology, Depth, DetailLevel
 
-from app.services.learning_service import create_mind_map
+from app.services.learning_service import create_mind_map, create_guide_book
+from app.utils.record import save_mind_map, save_guide_book
 
 request = LearningRequest(
-    topic="Building SaaS (Software as a Service)",
-    keywords=["Development", "Marketing", "Business"],
-    terminology=Terminology.technical,
+    topic="Productivity",
+    keywords=["Time Management", "Goal Setting", "Habit Building", "Deep Work", "Focus"],
+    terminology=Terminology.general,
     depth=Depth.deep,
     detail_level=DetailLevel.detailed
 )
 
+title = "productivity"
+
 mind_map = create_mind_map(request)
-print(mind_map)
+save_mind_map(mind_map, title)
 
-with open('test.txt', 'w') as f:
-    f.write(mind_map)
-
-# with open('test.json', 'w') as f:
-#     json.dump(mind_map.model_dump(), f, indent=4)
+guide_book = create_guide_book(request, mind_map)
+save_guide_book(guide_book, title)

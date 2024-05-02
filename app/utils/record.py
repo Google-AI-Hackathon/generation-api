@@ -4,6 +4,7 @@ import json
 from app.models.agent.agent import Agent
 from app.models.conversation.conversation import Conversation
 from app.models.podcast.podcast import DualPodcast
+from app.models.learning.mind_map import MindMap
 from app.models.interaction.interaction import Interaction, InteractionResponse
 from app.utils.conversation import get_interaction_response
 
@@ -46,3 +47,16 @@ def load_conversation_interactions(conversation_title: str) -> str:
     with open(json_file) as f:
         interactions_record = json.load(f)
     return [InteractionResponse(**interaction) for interaction in interactions_record]
+
+def save_mind_map(mind_map: MindMap, title: str):
+    if not os.path.exists(f"app/data/learning/{title}"):
+        os.makedirs(f"app/data/learning/{title}")
+    json_file = f"app/data/learning/{title}/mind_map.json"
+    with open(json_file, "w") as f:
+        json.dump(mind_map.model_dump(), f, indent=4)
+        
+def save_guide_book(guide_book: str, title: str):
+    if not os.path.exists(f"app/data/learning/{title}"):
+        os.makedirs(f"app/data/learning/{title}")
+    with open(f"app/data/learning/{title}/guide_book.md", "w") as f:
+        f.write(guide_book)

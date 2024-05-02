@@ -1,0 +1,223 @@
+{
+    "title": "SaaS (Software as a Service)",
+    "children": [
+        {
+            "title": "Development",
+            "children": [
+                {
+                    "title": "Design and Development Process",
+                    "children": [
+                        {
+                            "title": "Requirements Gathering and Analysis",
+                            "children": []
+                        },
+                        {
+                            "title": "System Architecture and Design",
+                            "children": []
+                        },
+                        {
+                            "title": "Development and Coding",
+                            "children": []
+                        },
+                        {
+                            "title": "Testing and Debugging",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Cloud Infrastructure",
+                    "children": [
+                        {
+                            "title": "Cloud Platform Selection",
+                            "children": []
+                        },
+                        {
+                            "title": "Server Provisioning",
+                            "children": []
+                        },
+                        {
+                            "title": "Data Storage and Management",
+                            "children": []
+                        },
+                        {
+                            "title": "Network Security",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Tools and Technologies",
+                    "children": [
+                        {
+                            "title": "Programming Languages",
+                            "children": []
+                        },
+                        {
+                            "title": "Development Frameworks",
+                            "children": []
+                        },
+                        {
+                            "title": "Cloud Computing Tools",
+                            "children": []
+                        },
+                        {
+                            "title": "Collaboration Tools",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Marketing",
+            "children": [
+                {
+                    "title": "Market Research and Analysis",
+                    "children": [
+                        {
+                            "title": "Customer Segmentation",
+                            "children": []
+                        },
+                        {
+                            "title": "Competitive Landscape",
+                            "children": []
+                        },
+                        {
+                            "title": "Market Sizing",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Marketing Channels",
+                    "children": [
+                        {
+                            "title": "Content Marketing",
+                            "children": []
+                        },
+                        {
+                            "title": "Social Media Marketing",
+                            "children": []
+                        },
+                        {
+                            "title": "Search Engine Optimization (SEO)",
+                            "children": []
+                        },
+                        {
+                            "title": "Email Marketing",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Sales and Customer Acquisition",
+                    "children": [
+                        {
+                            "title": "Sales Process",
+                            "children": []
+                        },
+                        {
+                            "title": "Pricing and Value Proposition",
+                            "children": []
+                        },
+                        {
+                            "title": "Customer Onboarding",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Customer Success",
+                    "children": [
+                        {
+                            "title": "Customer Support",
+                            "children": []
+                        },
+                        {
+                            "title": "User Training and Education",
+                            "children": []
+                        },
+                        {
+                            "title": "Customer Feedback and Analysis",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Business",
+            "children": [
+                {
+                    "title": "Financial Management",
+                    "children": [
+                        {
+                            "title": "Revenue and Profitability",
+                            "children": []
+                        },
+                        {
+                            "title": "Expense Management",
+                            "children": []
+                        },
+                        {
+                            "title": "Budgeting and Forecasting",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Legal Aspects",
+                    "children": [
+                        {
+                            "title": "Terms of Service",
+                            "children": []
+                        },
+                        {
+                            "title": "Privacy Policies",
+                            "children": []
+                        },
+                        {
+                            "title": "Data Protection",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Operations Management",
+                    "children": [
+                        {
+                            "title": "Customer Service",
+                            "children": []
+                        },
+                        {
+                            "title": "Business Process Optimization",
+                            "children": []
+                        },
+                        {
+                            "title": "Team Management",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Growth Strategy",
+                    "children": [
+                        {
+                            "title": "Product Development",
+                            "children": []
+                        },
+                        {
+                            "title": "Market Expansion",
+                            "children": []
+                        },
+                        {
+                            "title": "Strategic Partnerships",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
