@@ -2,8 +2,7 @@
 package.egg-info/
 __pycache__/
 .env
-test.py
-test.json
+test.*
 service_account.json
 media/*.wav
 .DS_Store
