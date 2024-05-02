@@ -1,0 +1,7 @@
+.venv/
+package.egg-info/
+__pycache__/
+test.py
+test.json
+media/*.wav
+.DS_Store
