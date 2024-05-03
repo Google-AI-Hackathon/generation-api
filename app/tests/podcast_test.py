@@ -1,8 +1,8 @@
 from app.utils.record import save_interactions
-from app.services.podcast_service import create_dual_podcast, run_dual_podcast, podcast_audio
-from app.services.tts_service import save_tts
+from app.services.podcast_service import create_dual_podcast, run_dual_podcast, save_dual_podcast_audio, upload_dual_podcast_audio
 
-from app.data.simulation.ai.agents import title, host, participant
+from app.utils.record import random_string
+from app.data.podcast.ai.agents import title, host, participant
 from app.models.podcast.podcast import Style, Depth, DetailLevel
 
 podcast = create_dual_podcast(
@@ -17,5 +17,11 @@ podcast = create_dual_podcast(
 
 run_dual_podcast(podcast)
 save_interactions(podcast.interactions, title)
+print(f"Podcast complete: {title}")
 
-output = podcast_audio(podcast, filename=f'./media/{title}.wav')
+file_path = f"media/{random_string()}.mp3"
+save_dual_podcast_audio(podcast, file_path)
+print(f"Podcast audio saved: {file_path}")
+
+public_url = upload_dual_podcast_audio(file_path)
+print(f"Podcast audio uploaded: {public_url}")

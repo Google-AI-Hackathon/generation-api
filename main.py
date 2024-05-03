@@ -23,5 +23,5 @@ async def storming_ai():
 
 app.include_router(conversation_router.router, prefix="/conversation", tags=["Conversation"])
 app.include_router(summary_router.router, prefix="/summary", tags=["Summary"])
-# app.include_router(podcast_router.router, prefix="/podcast", tags=["Podcast"])
+app.include_router(podcast_router.router, prefix="/podcast", tags=["Podcast"])
 app.include_router(learning_router.router, prefix="/learning", tags=["Learning"])

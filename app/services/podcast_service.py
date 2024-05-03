@@ -1,3 +1,5 @@
+import os
+
 from app.setup.config import MAX_PODCAST_CONTEXT_INTERACTIONS
 
 from app.models.agent.agent import Agent
@@ -7,6 +9,7 @@ from app.models.podcast.podcast import DualPodcast, Style, Depth, DetailLevel, C
 from app.services.agent_service import generate_podcast_host_interaction_response, generate_podcast_participant_interaction_response
 from app.utils.voice import random_voice, merge_audio_sequence
 from app.services.tts_service import synthesize_text, TTSRequest
+from app.utils.upload import upload_to_google_cloud_storage
 
 def create_dual_podcast(topic: str, style: Style, depth: Depth, detail_level: DetailLevel, n_interactions: int, host: Agent, participant: Agent) -> DualPodcast:
     counter = Counter(remaining_interactions={agent.identity.name: n_interactions for agent in [host, participant]})
@@ -34,8 +37,8 @@ def run_dual_podcast(podcast: DualPodcast):
             podcast.interactions.append(Interaction(agent=agent, message=response))
             podcast.counter.remaining_interactions[agent.identity.name] -= 1
     print("Podcast complete")
- 
-def save_dual_podcast_audio(podcast: DualPodcast, filename: str):
+
+def save_dual_podcast_audio(podcast: DualPodcast, file_path: str):
     host_voice = random_voice(podcast.host.identity.gender)
     participant_voice = random_voice(podcast.participant.identity.gender)
     audio_sequence = []
@@ -52,4 +55,7 @@ def save_dual_podcast_audio(podcast: DualPodcast, filename: str):
                 voice_name=participant_voice
             )
             audio_sequence.append(synthesize_text(request))
-    return merge_audio_sequence(audio_sequence, filename)
+    return merge_audio_sequence(audio_sequence, file_path)
+
+def upload_dual_podcast_audio(file_path: str):
+    return upload_to_google_cloud_storage(file_path)

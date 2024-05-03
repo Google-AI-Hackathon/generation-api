@@ -28,7 +28,7 @@ class DualPodcast(Podcast):
     
 class PodcastResponse(BaseModel):
     interactions: List[InteractionResponse]
-    audio_relative_path: str
+    public_url: str
     
 class PodcastRequest(BaseModel):
     topic: str

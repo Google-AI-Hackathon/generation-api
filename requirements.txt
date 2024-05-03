@@ -2,6 +2,11 @@
 python-dotenv
 fastapi
 uvicorn
+gunicorn
+uvloop
+httptools
+websockets
 google-generativeai==0.5.2
 google-cloud-texttospeech
+google-cloud-storage
 pydub

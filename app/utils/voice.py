@@ -17,10 +17,10 @@ def gender_voices(gender: Gender):
 def random_voice(gender: Gender):
     return random.choice(gender_voices(gender))
 
-def merge_audio_sequence(audio_sequence, filename: str):
+def merge_audio_sequence(audio_sequence, file_path: str):
     merged_audio = AudioSegment.silent(duration=0)
     for audio_bytes in audio_sequence:
-        audio_segment = AudioSegment.from_file(BytesIO(audio_bytes), format="wav")
+        audio_segment = AudioSegment.from_file(BytesIO(audio_bytes), format="mp3")
         merged_audio += audio_segment
-    merged_audio.export(filename, format="wav")
-    return filename
+    merged_audio.export(file_path, format="mp3")
+    return file_path

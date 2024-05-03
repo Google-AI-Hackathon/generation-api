@@ -1,7 +1,6 @@
 .venv/
 package.egg-info/
 __pycache__/
-test.py
-test.json
+test.*
 media/*.wav
 .DS_Store
