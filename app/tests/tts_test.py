@@ -18,7 +18,7 @@ def test_all_voices():
             voice_name=Voice(**voice_name)
         )
         audio = synthesize_text(params)
-        save_tts(audio, f'app/data/podcast/voices/tests/{voice_name["name"]}.wav')
+        # save_tts(audio, f'app/data/podcast/voices/tests/{voice_name["name"]}.wav')
         
 # list_voices_test(save=True)
 # test_all_voices()

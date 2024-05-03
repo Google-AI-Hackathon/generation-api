@@ -6,3 +6,5 @@ test.*
 service_account.json
 media/*.wav
 .DS_Store
+app.yaml
+.gcloudignore

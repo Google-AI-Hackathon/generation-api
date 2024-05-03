@@ -3,7 +3,7 @@ import random
 from io import BytesIO
 from pydub import AudioSegment
 
-from app.models.tts.voice import Voice
+from app.models.TTS.voice import Voice
 from app.models.agent.identity import Gender
 
 def gender_num(gender: Gender):

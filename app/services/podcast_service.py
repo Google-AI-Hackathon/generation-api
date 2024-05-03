@@ -6,7 +6,8 @@ from app.models.podcast.podcast import DualPodcast, Style, Depth, DetailLevel, C
 
 from app.services.agent_service import generate_podcast_host_interaction_response, generate_podcast_participant_interaction_response
 from app.utils.voice import random_voice, merge_audio_sequence
-from app.services.tts_service import synthesize_text, TTSRequest
+from app.services.tts_service import synthesize_text
+from app.models.TTS.tts import TTSRequest
 
 def create_dual_podcast(topic: str, style: Style, depth: Depth, detail_level: DetailLevel, n_interactions: int, host: Agent, participant: Agent) -> DualPodcast:
     counter = Counter(remaining_interactions={agent.identity.name: n_interactions for agent in [host, participant]})

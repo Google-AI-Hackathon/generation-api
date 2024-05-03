@@ -1,7 +1,7 @@
 from pydantic import BaseModel
 from app.setup.config import TTS_LANGUAGE
 
-from app.models.tts.voice import Voice
+from app.models.TTS.voice import Voice
 
 class TTSRequest(BaseModel):
     text: str

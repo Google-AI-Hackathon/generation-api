@@ -3,8 +3,8 @@ from uuid import uuid4
 
 import google.cloud.texttospeech as tts
 from google.cloud.texttospeech import TextToSpeechClient
-from app.models.tts.tts import TTSRequest
-from app.models.tts.voice import Voice
+from app.models.TTS.tts import TTSRequest
+from app.models.TTS.voice import Voice
 
 from app.setup.config import TTS_LANGUAGE
 from app.setup.creds import set_google_application_credentials
@@ -37,7 +37,7 @@ def synthesize_text(params: TTSRequest):
     )
     return response.audio_content
 
-def save_tts(audio_content, filename: str):
-    with open(filename, "wb") as out:
-        out.write(audio_content)
-    return filename
+# def save_tts(audio_content, filename: str):
+#     with open(filename, 'wb') as out:
+#         out.write(audio_content)
+#     return filename
