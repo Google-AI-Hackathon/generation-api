@@ -8,7 +8,7 @@ from app.utils.response import interaction_as_response
 def create_dual_podcast_controller(topic: str, style: Style, depth: Depth, detail_level: DetailLevel, n_interactions: int, host: Agent, participant: Agent) -> DualPodcast:
     podcast = create_dual_podcast(topic, style, depth, detail_level, n_interactions, host, participant)
     run_dual_podcast(podcast)
-    file_path = f"media/{random_string()}.mp3"
+    file_path = f"media/{random_string()}.wav"
     save_dual_podcast_audio(podcast, file_path)
     return PodcastResponse(
         interactions=[interaction_as_response(interaction) for interaction in podcast.interactions],

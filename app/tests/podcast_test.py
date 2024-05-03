@@ -10,7 +10,7 @@ podcast = create_dual_podcast(
     style=Style.entertaining,
     depth=Depth.deep,
     detail_level=DetailLevel.detailed,
-    n_interactions=5,
+    n_interactions=1,
     host=host,
     participant=participant
 )
@@ -19,7 +19,7 @@ run_dual_podcast(podcast)
 save_interactions(podcast.interactions, title)
 print(f"Podcast complete: {title}")
 
-file_path = f"media/{random_string()}.mp3"
+file_path = f"media/{random_string()}.wav"
 save_dual_podcast_audio(podcast, file_path)
 print(f"Podcast audio saved: {file_path}")
 
